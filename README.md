@@ -1,2 +1,1 @@
-# loyiha
-oson
+#Restaran  loyiha
